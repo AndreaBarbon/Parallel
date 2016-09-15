@@ -17,7 +17,7 @@ It does **not** explain how to start clusters on your machine. For that, refer t
 ipcluster start -n 8
 ```
 
-on your command line.
+on your terminal.
 
 ## Requirements
 
